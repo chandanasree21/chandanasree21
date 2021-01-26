@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1> Hi! i'm Chandana Sree! </h1>
 
-<!--
-**chandanasree21/chandanasree21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/chandanasree21/images/blob/master/20200716_234146_0000.png" width="800" height="360"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- FIRST NAME:CHANDANA SREE
+- LAST NAME:GUDAPURI
+- DATE OF BIRTH:21-01-2003 
+- PLACE OF BIRTH:TELANGANA
+- FATHER NAME: VENKAT NARAYANA
+- MOTHER NAME: KAVITHA
+- SIBLINGS(YES or NO): YES
+
 -->
+<h2> Find me around the web : </h2>
+-Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/chandana sree">@LinkedIn</a>
+-Check my profile on HackerRank-<a href="https://www.hackerrank.com/chandana sree gudapuri>@HackerRank</a>
